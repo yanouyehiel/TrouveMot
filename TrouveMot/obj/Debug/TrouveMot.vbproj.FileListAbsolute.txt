@@ -1,0 +1,22 @@
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbprojAssemblyReference.cache
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.Resources.resources
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbproj.GenerateResource.cache
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.exe.config
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.exe
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.pdb
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.xml
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.exe
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.xml
+C:\Users\Yepy Ezek\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.pdb
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.exe.config
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.exe
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.pdb
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\bin\Debug\TrouveMot.xml
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbprojAssemblyReference.cache
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.Resources.resources
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbproj.GenerateResource.cache
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.exe
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.xml
+C:\Users\Yepy\source\repos\TrouveMot\TrouveMot\obj\Debug\TrouveMot.pdb
